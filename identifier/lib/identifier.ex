@@ -1,4 +1,11 @@
-defmodule Identifier do
+defmodule Identifier 
+ @moduledoc """
+  Provides functions for validating and classifying identifiers.
+
+  This module contains the business logic used in the academic
+  project for functional testing using ExUnit.
+  """
+
   @min_length 3
   @max_length 10
 
