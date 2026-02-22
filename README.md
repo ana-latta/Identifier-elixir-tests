@@ -1,4 +1,5 @@
 # Identifier – Functional Testing with Elixir
+[![Elixir CI](https://github.com/ana-latta/Identifier-elixir-tests/actions/workflows/ci.yml/badge.svg)](https://github.com/ana-latta/Identifier-elixir-tests/actions/workflows/ci.yml)
 
 Academic project demonstrating the application of software testing techniques using Elixir and ExUnit.
 
