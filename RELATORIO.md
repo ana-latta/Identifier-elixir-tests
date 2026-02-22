@@ -81,13 +81,15 @@ mix test
 
 ---
 
-# 6. Cobertura de Código
+## 6. Cobertura de Código
 
-Cobertura gerada com:
+Cobertura obtida após execução de:
 
 mix test --cover
 
-Resultado obtido: cobertura superior a 90%.
+Resultado obtido: 100% de cobertura total.
+
+Módulo principal (Identifier): 100%.
 
 ---
 
