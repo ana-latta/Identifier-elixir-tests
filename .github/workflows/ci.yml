@@ -32,6 +32,11 @@ jobs:
         run: |
           cd identifier
           mix format --check-formatted
+          
+      - name: Run Credo
+        run: |
+          cd identifier
+          mix credo --strict
 
       - name: Run tests with coverage
         run: |
