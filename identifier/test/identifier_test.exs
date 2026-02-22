@@ -37,7 +37,8 @@ defmodule IdentifierTest do
   test "11 caracteres (limite superior inválido)" do
     refute Identifier.valid?("abcdefghijk")
   end
+
   test "non-string input should be invalid" do
-  refute Identifier.valid?(123)
+    refute Identifier.valid?(123)
   end
 end
