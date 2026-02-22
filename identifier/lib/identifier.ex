@@ -1,5 +1,5 @@
-defmodule Identifier 
- @moduledoc """
+defmodule Identifier do
+  @moduledoc """
   Provides functions for validating and classifying identifiers.
 
   This module contains the business logic used in the academic
