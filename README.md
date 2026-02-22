@@ -1,0 +1,28 @@
+# Identifier – Functional Testing with Elixir
+
+Academic project demonstrating the application of software testing techniques using Elixir and ExUnit.
+
+---
+
+## 📚 Techniques Applied
+
+- Functional Testing (Black Box)
+- Equivalence Partitioning
+- Boundary Value Analysis
+
+---
+
+## 🛠 Tech Stack
+
+- Elixir
+- ExUnit
+- GitHub
+- GitHub Codespaces
+
+---
+
+## 🚀 How to Run
+
+```bash
+cd identifier
+mix test
